@@ -1,0 +1,22 @@
+h1{
+    color:purple;
+    text-align:center;
+    text-decoration:line-through overline underline;
+}
+
+p{
+    text-transform: capitalize  ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blueviolet;
+    font-style: italic;
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    font-weight:lighter;
+    font-variant: small-caps;
+}   
