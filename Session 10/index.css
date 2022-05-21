@@ -1,0 +1,17 @@
+h1:hover{
+    color:red;
+}
+
+h2:active{
+    color:blue;
+}
+
+a:visited{
+    color: brown;
+}
+
+body{
+    background: url('gym2.jpeg');
+    background-repeat: no-repeat;
+    background-position: right;
+}
