@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+h2{
+    display: inline;
+}
+
+span{
+    display: block;
+}
+
+
+h1{
+    background-color: pink;
+    padding: 20px;
+    border: 5px red dashed;
+    margin:50px;
+}
